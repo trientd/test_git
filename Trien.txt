@@ -20,3 +20,11 @@ git push
 /*edit on github
 edit and commit changes
 git pull
+
+/*remove commit( sau khi add ma khong muon commit len local)
+git rm --cached <filename>
+
+/*commit
+git commit -a -m"comment" (commit tất cả change luôn, k cần add)
+get commit --amend -a -m"comment" (gộp với commit trước thành 1, khi change quá ít
+trình edit ra, bấm a để edit commit trước, rồi bấm :wq để write and quit)
