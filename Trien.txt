@@ -1,0 +1,8 @@
+git config --global user.email "ductrienx1@gmail.com"
+git config --global user.name "ductrien"
+
+git status
+git add *
+git commit -m"Add new file Trien.txt"
+git push
+
