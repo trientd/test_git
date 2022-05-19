@@ -1,8 +1,18 @@
+
+/* config for the first time /*
 git config --global user.email "ductrienx1@gmail.com"
 git config --global user.name "ductrien"
 
+/* add a new file or modify it
 git status
 git add *
 git commit -m"Add new file Trien.txt"
 git push
 
+
+/*back up
+git log
+copy the code 
+git revert [code]
+git commit -m"comment"
+git push
