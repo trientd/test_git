@@ -16,3 +16,7 @@ copy the code
 git revert [code]
 git commit -m"comment"
 git push
+
+/*edit on github
+edit and commit changes
+git pull
